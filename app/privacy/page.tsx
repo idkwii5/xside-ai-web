@@ -10,7 +10,7 @@ export default function PrivacyPage() {
       <section className="space-y-4">
         <h2 className="text-2xl font-semibold">1. Introduction</h2>
         <p>
-          Sideo AI (“we”, “our”, “the Service”) is committed to protecting your
+          Xside (“we”, “our”, “the Service”) is committed to protecting your
           privacy. This Privacy Policy explains how we handle data when you use
           our website, browser extension, and related services.
         </p>
@@ -41,7 +41,7 @@ export default function PrivacyPage() {
 
         <h2 className="text-2xl font-semibold">4. Third‑Party Services</h2>
         <p>
-          Sideo AI may integrate with third‑party AI APIs (e.g., OpenAI,
+          Xside may integrate with third‑party AI APIs (e.g., OpenAI,
           Anthropic). Your submitted text may be sent to these providers solely
           for generating responses. These providers do not receive any personal
           identifying information from us.
@@ -63,7 +63,7 @@ export default function PrivacyPage() {
         <p>
           If you have questions about this Privacy Policy, contact us at:
           <br />
-          <strong>support@sideo.ai</strong>
+          <strong>support@xside.ai</strong>
         </p>
       </section>
 
@@ -74,7 +74,7 @@ export default function PrivacyPage() {
       <section className="space-y-4">
         <h2 className="text-2xl font-semibold">1. 简介</h2>
         <p>
-          Sideo AI（“我们”）致力于保护您的隐私。本隐私政策说明您在使用我们的网站、
+          Xside（“我们”）致力于保护您的隐私。本隐私政策说明您在使用我们的网站、
           浏览器插件及相关服务时，我们如何处理数据。
         </p>
 
@@ -101,7 +101,7 @@ export default function PrivacyPage() {
 
         <h2 className="text-2xl font-semibold">4. 第三方服务</h2>
         <p>
-          Sideo AI 可能会调用第三方 AI API（如 OpenAI、Anthropic）。您提交的文本仅用于生成回复，
+          Xside 可能会调用第三方 AI API（如 OpenAI、Anthropic）。您提交的文本仅用于生成回复，
           不会包含任何可识别个人身份的信息。
         </p>
 
@@ -117,7 +117,7 @@ export default function PrivacyPage() {
         <p>
           如有任何问题，请联系：
           <br />
-          <strong>support@sideo.ai</strong>
+          <strong>support@xside.ai</strong>
         </p>
       </section>
     </main>
